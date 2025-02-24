@@ -40,4 +40,5 @@ https://www.droptopfour.com/community-themes/
 
 Inspiration/credits:
 * https://www.droptopfour.com/community-themes/
-* hyper-dots https://github.com/sansroot/hypr-dots _(for the image)_
+* [Sansroot](https://github.com/sansroot)
+* [KazukiGames82](https://github.com/KazukiGames82)
