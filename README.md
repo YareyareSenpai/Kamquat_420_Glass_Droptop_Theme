@@ -20,8 +20,7 @@ But I higlighly recommend you check out the drotop community themes, some awesom
 ```
 winget install Rainmeter
 ```
-* Droptopfour
-https://www.droptopfour.com/community-themes/
+* [Droptopfour](https://www.droptopfour.com/download/)
 
 ### Installing
 
