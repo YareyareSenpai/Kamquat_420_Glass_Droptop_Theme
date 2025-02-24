@@ -30,7 +30,7 @@ https://www.droptopfour.com/community-themes/
 ## Version History
 
 * 1.0
-    * Initial [releases](https://github.com/YareyareSenpai/Kamquat_420_Glass_Droptop_Theme/tags)
+    * Initial release 
 
 ## License
 
