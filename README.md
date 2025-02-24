@@ -34,6 +34,8 @@ https://www.droptopfour.com/community-themes/
 
 ## License
 
+[[GNU General Public License v3.0](https://github.com/YareyareSenpai/Kamquat_420_Glass_Droptop_Theme/blob/main/LICENSE)](LICENSE)
+
 ## Acknowledgments
 
 Inspiration/credits:
