@@ -9,6 +9,8 @@ But I higlighly recommend you check out the drotop community themes, some awesom
 
 ## Skin Preview
 
+#### Skin priview with sizing value set to _Mini 4_.
+
 ![kamquat](https://github.com/user-attachments/assets/a151af1b-5b8a-40ee-b1d4-5726f5aab3df)
 ![Nord01](https://github.com/user-attachments/assets/ad787fc9-3938-43ce-ae64-e84889ae807a)
 
